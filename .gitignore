@@ -1,0 +1,4 @@
+_psycache_/
+*.pyc
+venv/
+.venv/
